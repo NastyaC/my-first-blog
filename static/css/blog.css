@@ -1,4 +1,4 @@
-/*body {
+body {
     padding-left: 15px;
 }
 
@@ -53,23 +53,4 @@ h1, h2, h3, h4 {
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
-} */
-
-.page-header {
-    background-image: url(http://media.gettyimages.com/videos/cartoon-boy-writes-with-blank-copy-space-video-id104490693?s=640x640);
-    min-height: 400px;
-    background-size: 100% 400px;
-    background-repeat: no-repeat;
-    background-position: 0 -75px;
-    margin: 0;
-}
-
-.page-header .site-heading h1{
-    font-size: 75px;
-    margin-left: -10px;
-}
-
-a:focus, a:hover {
-    text-decoration: none;
-    color: #333;
 }
